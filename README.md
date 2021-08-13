@@ -1,12 +1,14 @@
 # Connect4-with-AI
-This python program implements a min-max search algorithm and uses an evaluation function to determine the AI's moves
+
+In this repository is my Python Connect4 AI program.
+
+The AI determines each move using an adversarial search with a min-max algorithm and an evaluation function. The min-max algorithm works by looking ahead moves switching from the player's and AI's perspective. The evaluation function is used to determine the value associated with each board state and is returned for each node. This allows the AI to find what moves can lead to a win, loss, or draw and to act accordingly. 
 
 
 ## Usage
-First make sure you have the latest version of Python downloaded on your device. [Check here](https://www.python.org/downloads/) 
+After downloading the code make sure you have the latest version of Python on your device. [Check here](https://www.python.org/downloads/) 
 
-
-Next you can use the below line to run code:
+Next you can use the below line to run the code:
 ```
 python3 Connect4_AI.py
 ```
