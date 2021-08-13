@@ -4,8 +4,7 @@ This python program implements a min-max search algorithm and uses an evaluation
 
 ## Usage
 First make sure you have the latest version of Python downloaded on your device.
-
-Click [here](quora.com/profile/Ashish-Kulkarni-100) to go to my Quora profile. 
+Check [here](https://www.python.org/downloads/) 
 
 Next you can use the below line to run code:
 ```
