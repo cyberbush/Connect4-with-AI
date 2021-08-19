@@ -6,7 +6,7 @@ The AI determines each move using an adversarial search with a min-max algorithm
 
 
 ## Usage
-After downloading the code make sure you have the latest version of Python on your device. [Check here]((https://www.python.org/downloads/) 
+After downloading the code make sure you have the latest version of Python on your device. [Check here](https://www.python.org/downloads/) 
 
 Next you can use the below line to run the program:
 ```
